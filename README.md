@@ -1,16 +1,21 @@
-<!-- Professional GitHub Profile README -->
+<!-- animation start  -->
+  <div align="center">
+    <h1> Hi there, I'm Manal Asghar👋</h1>
+  </div>
+<p align="center">
+<a href="https://github.com/Manal5664">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Deep+Learning+Learner;LLMs+%26+Generative+AI+Learner&font=Roboto&size=26&duration=3500&pause=500&center=true&width=600&height=50&color=F8D866">
+</a>
 
-# Hi, I'm Manal Asghar 👋  
-
-**Data Scientist | Machine Learning and Deep Learning**  
-
----
-
-## 🔹 About Me
-- 🎓 MPhil Researcher specializing in **Machine Learning, Deep Learning, and NLP**  
+<!-- animation end  -->
+## 🔹 SKILLS & LEARNING PATH
+- 🎓 MPhil Researcher specializing in **Machine Learning, Deep Learning, and NLP**
+- 🌱 I’m currently learning LLM's and Generative AI... 😭
+- 🚀 I'm a Consistent, Hard-working, and Motivated person
+- 🚀 Passionate about solving real-world problems with data-driven approaches   
 - 📊 Skilled in **Python, Data Science, Deep Learning, NLP, and Data Analysis**  
 - 🔬 Research focus: **Machine Learning and Deep Learning** 
-- 🚀 Passionate about solving real-world problems with data-driven approaches  
+
 
 ---
 
