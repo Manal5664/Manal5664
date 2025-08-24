@@ -27,7 +27,7 @@
 ---
 
 ## 🔹 Featured Projects
-- [SmartBank Customer Churn Prediction](https://github.com/Manal5664/SmartBank-Churn)  
+- [SmartBank Customer Churn Prediction](https://github.com/Manal5664/customer-churn-prediction)  
 - [BERTopic on Enron Emails](https://github.com/Manal5664/Enron-BERTopic)  
 
 👉 [See all repositories](https://github.com/Manal5664?tab=repositories)
