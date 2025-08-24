@@ -8,7 +8,7 @@
 </a>
 
 <!-- animation end  -->
-## 🔹 SKILLS & LEARNING PATH
+## 🔹CURRENT FOCUS & LEARNING
 - 🎓 MPhil Researcher specializing in **Machine Learning, Deep Learning, and NLP**
 - 🌱 I’m currently learning LLM's and Generative AI... 😭
 - 🚀 I'm a Consistent, Hard-working, and Motivated person
