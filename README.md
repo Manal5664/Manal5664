@@ -28,7 +28,7 @@
 
 ## 🔹 Featured Projects
 - [SmartBank Customer Churn Prediction](https://github.com/Manal5664/customer-churn-prediction)  
-- [BERTopic on Enron Emails](https://github.com/Manal5664/Enron-BERTopic)  
+- [Customer Booking ](https://github.com/Manal5664/customer-booking-ml-model)  
 
 👉 [See all repositories](https://github.com/Manal5664?tab=repositories)
 
@@ -47,8 +47,8 @@
 ---
 
 ## 🔹 Connect with Me
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)  
+- 📧 Email: **manal.atif2021@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/manal-asghar-967ba62a3/)  
 - 🐙 GitHub: [github.com/Manal5664](https://github.com/Manal5664)  
 
 ---
