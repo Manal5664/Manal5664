@@ -13,7 +13,7 @@
 -  I’m currently learning LLM's and Generative AI... 
 -  I'm a Consistent, Hard-working, and Motivated person
 -  Passionate about solving real-world problems with data-driven approaches   
--  Skilled in **Python, Data Science, Deep Learning, NLP, and Data Analysis**  
+-  Skilled in **Python Development, Data Science, Deep Learning, NLP, and Data Analysis**  
 -  Research focus: **Machine Learning and Deep Learning** 
 
 
