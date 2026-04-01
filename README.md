@@ -24,6 +24,13 @@
   -  Bootstrap  
 
 ---
+## RESEARCH INTERESTS
+
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing (NLP)
+
+---
 
 ## 🔹 Skills & Tools
 <p align="left">
