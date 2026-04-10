@@ -21,7 +21,10 @@
   - Data Analysis
   -  HTML, CSS,
   -  JavaScript, jQuery,
-  -  Bootstrap  
+  -  Bootstrap
+  -  Git and Github
+  -  XMl and JSON
+  -  MysQl   
 
 ---
 ## RESEARCH INTERESTS
