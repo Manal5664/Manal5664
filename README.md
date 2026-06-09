@@ -14,17 +14,20 @@
 - Currently exploring LLMs and Generative AI  
 - Passionate about solving real-world problems using data-driven approaches  
 - Skilled in:
-  - Python Development  
+  - Python Development(Flask,Django, MongoDB)  
   - Data Science  
   - Deep Learning  
   - NLP  
   - Data Analysis
-  -  HTML, CSS,
-  -  JavaScript, jQuery,
-  -  Bootstrap
-  -  Git and Github
-  -  XMl and JSON
-  -  MysQl   
+  - HTML, CSS,
+  - JavaScript, Advances Javascript, jQuery
+  - Bootstrap
+  - Git and Github
+  - XML and JSON
+  - MysQL,SQlite
+  - PHP
+  - laravel
+  - 
 
 ---
 ## RESEARCH INTERESTS
