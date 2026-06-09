@@ -24,10 +24,8 @@
   - Bootstrap
   - Git and Github
   - XML and JSON
-  - MysQL,SQlite
-  - PHP
-  - laravel
-  - 
+  - MysQL, SQlite
+  - PHP (Laravel)
 
 ---
 ## RESEARCH INTERESTS
