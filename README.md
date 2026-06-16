@@ -20,7 +20,7 @@
   - NLP  
   - Data Analysis
   - HTML, CSS,
-  - JavaScript, Advances Javascript, jQuery
+  - JavaScript, Advance Javascript, jQuery
   - Bootstrap
   - Git and Github
   - XML and JSON
