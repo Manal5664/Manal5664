@@ -14,8 +14,9 @@
 - Currently exploring LLMs and Generative AI  
 - Passionate about solving real-world problems using data-driven approaches  
 - Skilled in:
-  - Python Development(Flask,Django, MongoDB)  
-  - Data Science  
+  - Python Development(Flask, Django, MongoDB)
+  - Ai primers
+  - Data Science
   - Deep Learning  
   - NLP  
   - Data Analysis
@@ -26,6 +27,7 @@
   - XML and JSON
   - MysQL, SQlite
   - PHP (Laravel)
+  - Web Scrapping(beautiful soap and Selenium)
 
 ---
 ## RESEARCH INTERESTS
