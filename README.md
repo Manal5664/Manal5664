@@ -14,7 +14,7 @@
 - Currently exploring LLMs and Generative AI  
 - Passionate about solving real-world problems using data-driven approaches  
 - Skilled in:
-  - Python Development(Flask, Django, MongoDB)
+  - Python Development(FastAPI, Flask, Django, MongoDB)
   - Ai primers
   - Data Science
   - Deep Learning  
