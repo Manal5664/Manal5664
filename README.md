@@ -15,19 +15,16 @@
 - Passionate about solving real-world problems using data-driven approaches  
 - Skilled in:
   - Python Development(FastAPI, Flask, Django, MongoDB)
-  - Ai primers
-  - Data Science
-  - Deep Learning  
-  - NLP  
+  - Ai primers(Numpy, Pandas, Matplotlib, seaborn)
+  - Data Science (Machine Learning, Deep learning Gen AI, NLP)
+  - Web Scrapping(beautiful soap and Selenium)
   - Data Analysis
-  - HTML, CSS,
+  - HTML, CSS,Bootstrap
   - JavaScript, Advance Javascript, jQuery
-  - Bootstrap
   - Git and Github
   - XML and JSON
   - MysQL, SQlite
   - PHP (Laravel)
-  - Web Scrapping(beautiful soap and Selenium)
 
 ---
 ## RESEARCH INTERESTS
