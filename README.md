@@ -83,27 +83,25 @@ Agentic AI and RAG-based evidence investigation platform with provenance-aware s
 </a>
 
 ---
-
 <div align="center">
 
 ## GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manal5664&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Manal5664&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal5664&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manal5664&layout=compact&theme=github_dark&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manal5664&theme=github-dark&hide_border=true"/>
 
 </div>
-
 ---
 
 <div align="center">
 
 ### Let's Connect
 
-**Portfolio** · **LinkedIn** · **GitHub** · **Email**
+<a href="https://portfolio-po48lu3do-manal-asghars-projects.vercel.app/">Portfolio</a> · <a href="https://www.linkedin.com/in/manal-asghar-967ba62a3/">LinkedIn</a> · <a href="https://github.com/Manal5664">GitHub</a> · <a href="mailto:manal.atif2021@gmail.com">Email</a>
 
 </div>
