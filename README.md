@@ -1,142 +1,109 @@
-# Hi, I'm Manal Asghar 👋
+<div align="center">
+
+# Hi there, I'm Manal Asghar 👋
 
 ### Software Developer | Data Science & AI
 
-I build practical software and intelligent, data-driven applications using modern web technologies, machine learning, and applied AI.
+Building practical software and intelligent, data-driven applications.
 
-Currently pursuing a **Master of Computer Science in Data Science** and working as a **Faculty Member at Aptech Learning**, where I teach software development, Flask, Machine Learning, Deep Learning, and AI concepts.
+<br/>
 
-<p align="center">
-  <a href="https://github.com/Manal5664">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Python+Developer;Machine+Learning;Deep+Learning;LLMs+%26+Generative+AI&font=Roboto&size=26&duration=3500&pause=500&center=true&width=650&height=50&color=6C63FF">
-  </a>
-</p>
+<a href="https://portfolio-po48lu3do-manal-asghars-projects.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/manal-asghar-967ba62a3/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:manal.atif2021@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Manal5664&label=Visitors&style=flat-square"/>
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
+
+## About Me
+
+</div>
+
+* 🎓 Pursuing a **Master of Computer Science in Data Science**
+* 👩‍🏫 Faculty Member at **Aptech Learning**
+* 🤖 Teaching **AI, Machine Learning, Deep Learning, Flask, and Software Development**
+* 🧠 Exploring **LLMs, Generative AI, RAG, NLP, and Agentic AI**
+* 💻 Building practical **AI-powered and full-stack applications**
+
+---
+
+<div align="center">
+
+## Languages & Tools
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,js,html,css,bootstrap,php,laravel,mysql,postgres,docker,git,github,tensorflow,pytorch&perline=9"/>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Featured Projects
+
+</div>
 
 ### 🛡️ VisionGuard AI
 
-**AI-Powered Security & Computer Vision System**
+AI-powered computer vision security system with YOLO person detection, ByteTrack tracking, user-defined intrusion zones, FastAPI, React, PostgreSQL, and Docker.
 
-An AI-powered security monitoring application that detects people in images and videos, tracks movement, and identifies intrusions within user-defined security zones.
+<a href="https://github.com/Manal5664/VisionGuard-AI">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Highlights**
-
-* YOLO-based person detection
-* Video processing and ByteTrack object tracking
-* User-defined restricted zones
-* Intrusion detection and event logging
-* React dashboard + FastAPI REST API
-* PostgreSQL persistence
-* Dockerized application
-
-**Tech:** Python · FastAPI · React · PostgreSQL · YOLO · ByteTrack · OpenCV · Docker
-
-**Repository:**
-https://github.com/Manal5664/VisionGuard-AI
-
----
+<br/>
 
 ### 🔎 EvidenceAI
 
-**Agentic AI · RAG · Evidence Intelligence**
+Agentic AI and RAG-based evidence investigation platform with provenance-aware synthesis, GraphRAG, Google Gemini, FastAPI, PostgreSQL, and Docker.
 
-An evidence-grounded AI investigation platform that researches claims, retrieves sources, identifies supporting and contradicting evidence, and produces provenance-aware synthesis.
+<a href="https://github.com/Manal5664/AI-Investigation-Engine">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Highlights**
-
-* Agentic investigation pipeline
-* RAG-based retrieval
-* GraphRAG entity and relation extraction
-* Supporting vs. contradicting evidence analysis
-* Multi-format document ingestion
-* Gemini integration
-* PostgreSQL persistence
-* Docker and GitHub Actions
-
-**Tech:** Python · FastAPI · Gemini · RAG · GraphRAG · PostgreSQL · SQLAlchemy · Docker
-
-**Repository:**
-https://github.com/Manal5664/AI-Investigation-Engine
-
-**Live Demo:**
-https://ai-investigation-engine-production.up.railway.app/dashboard
+<a href="https://ai-investigation-engine-production.up.railway.app/dashboard">
+  <img src="https://img.shields.io/badge/Live%20Demo-6C63FF?style=for-the-badge&logo=railway&logoColor=white"/>
+</a>
 
 ---
 
-## 💻 Technical Skills
+<div align="center">
 
-**Programming & Backend**
-Python · FastAPI · Flask · PHP · Laravel · C#
+## GitHub Stats
 
-**AI & Data Science**
-Machine Learning · Deep Learning · NLP · Generative AI · LLMs · RAG · Fine-Tuning
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manal5664&show_icons=true&theme=github_dark&hide_border=true"/>
 
-**Libraries & Frameworks**
-Pandas · NumPy · Scikit-learn · PyTorch · TensorFlow · Hugging Face Transformers · NLTK · SpaCy
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manal5664&layout=compact&theme=github_dark&hide_border=true"/>
 
-**Frontend**
-HTML · CSS · JavaScript · jQuery · Bootstrap · React
+<br/>
 
-**Databases & Tools**
-PostgreSQL · MySQL · SQLite · Docker · Git · GitHub
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manal5664&theme=github-dark&hide_border=true"/>
 
-**Data & Web**
-XML · JSON · CSV · BeautifulSoup · Selenium
+</div>
 
 ---
 
-## 👩‍🏫 Experience
+<div align="center">
 
-### Faculty Member — Aptech Learning
+### Let's Connect
 
-**Feb 2026 — Present**
+**Portfolio** · **LinkedIn** · **GitHub** · **Email**
 
-Teaching software development and applied AI, including web development, Flask, Machine Learning, Deep Learning, and AI concepts. Mentoring students through practical software and AI-based projects.
-
----
-
-## 🎓 Education
-
-**Master of Computer Science in Data Science**
-Muhammad Ali Jinnah University — *Sep 2024 – Present*
-
-**Bachelor of Engineering in Software Engineering**
-Virtual University of Pakistan — *Oct 2019 – Mar 2024*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manal5664&theme=github-dark&hide_border=true" height="160"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Manal5664&show_icons=true&count_private=true&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Manal5664&langs_count=6&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
----
-
-## 🌐 Portfolio & Contact
-
-**Portfolio:**
-https://portfolio-po48lu3do-manal-asghars-projects.vercel.app/
-
-**LinkedIn:**
-https://www.linkedin.com/in/manal-asghar-967ba62a3/
-
-**GitHub:**
-https://github.com/Manal5664
-
-**Email:**
-[manal.atif2021@gmail.com](mailto:manal.atif2021@gmail.com)
-
----
-
-### Currently focused on
-
-Building practical **AI-powered applications**, strengthening **full-stack development**, and exploring **LLMs, RAG, Generative AI, and intelligent software systems**.
+</div>
