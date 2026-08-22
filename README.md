@@ -24,7 +24,6 @@ Building practical software and intelligent, data-driven applications.
 
 </div>
 
----
 
 <div align="center">
 
